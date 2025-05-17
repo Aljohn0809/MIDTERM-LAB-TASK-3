@@ -10,16 +10,16 @@
   ###
   
  - Uncleaned_DS_Job
- ![Screenshot 2025-03-16 221320](https://github.com/user-attachments/assets/36596330-f52d-4732-8994-96884f62f386)
+ <img src="images/Uncleaned DS Job.png" alt="alt text" width="600">
  
  - Sal By Role
- ![Screenshot 2025-03-16 221333](https://github.com/user-attachments/assets/1f5851de-0cfc-44a6-b2da-fbca7874a4ee)
+ <img src="images/Sal by Role.png" alt="alt text" width="600">
  
  - Sal By State
- ![Screenshot 2025-03-16 221346](https://github.com/user-attachments/assets/979df8c2-702e-40e6-aa00-d11cd17e5d59)
+ <img src="images/Sal by State.png" alt="alt text" width="600">
  
  - Sal By Size
- ![Screenshot 2025-03-16 221357](https://github.com/user-attachments/assets/62bea47c-6ce6-45fd-b62f-b865915897da)
+ <img src="images/Sal by Size.png" alt="alt text" width="600">
 
  
 
@@ -48,25 +48,24 @@
   Analyzing Salary Data
   
   - Sal By Role
-  ![Screenshot 2025-03-16 222352](https://github.com/user-attachments/assets/157d803d-08bd-4b59-92f6-d029acc769c7)
+  <img src="images/Sal by Role 1.png" alt="alt text" width="600">
   
   - Sal By State
-  ![Screenshot 2025-03-16 222926](https://github.com/user-attachments/assets/8d161dcb-0509-4131-a6bd-bdadb613d5ff)
+  <img src="images/Sal by State 1.png" alt="alt text" width="600">
   
   - Sal By Size
-  ![Screenshot 2025-03-16 222500](https://github.com/user-attachments/assets/7aeb3086-eb6e-4e52-83d6-e2335f9e2ce3)
+ <img src="images/Sal by Size 1.png" alt="alt text" width="600">
 
   - Sector By State
-  ![Screenshot 2025-03-16 223143](https://github.com/user-attachments/assets/00a51698-fcd0-4ba9-a941-da9e40e296d6)
+ <img src="images/Sector by State.png" alt="alt text" width="600">
 
   - Sector By Salary
-  ![Screenshot 2025-03-16 223205](https://github.com/user-attachments/assets/d495a120-4f30-4ed9-8ba9-52ad676a3f3f)
+ <img src="images/Sector by Salary.png" alt="alt text" width="600">
 
   ###
   Dashboard
   
-  ![image](https://github.com/user-attachments/assets/ba49d870-a790-452c-83aa-673b5ca9ad0d)
-
+ <img src="images/Dashboard.png" alt="alt text" width="600">
 
   
 
