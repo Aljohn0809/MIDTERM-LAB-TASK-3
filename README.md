@@ -10,16 +10,20 @@
   ###
   
  - Uncleaned_DS_Job
- <img src="images/Uncleaned DS Job.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/5d9a44a6-a611-457d-b723-30a68f098173)
+
  
  - Sal By Role
- <img src="images/Sal by Role.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/7a4aa65a-2ac2-4b92-935c-37c92b3e88cd)
+
  
  - Sal By State
- <img src="images/Sal by State.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/ebbc15c2-1631-41b8-b550-c7ca8fbf0975)
+
  
  - Sal By Size
- <img src="images/Sal by Size.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/15ed780c-d378-485c-aae3-3b1f2b2c0854)
+
 
  
 
@@ -48,24 +52,30 @@
   Analyzing Salary Data
   
   - Sal By Role
-  <img src="images/Sal by Role 1.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/c30cb05b-e851-4843-801b-71f9dada95b1)
+
   
   - Sal By State
-  <img src="images/Sal by State 1.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/d50dafab-2109-47e5-a8e4-bda80f09496c)
+
   
   - Sal By Size
- <img src="images/Sal by Size 1.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/275d253a-acb7-4b4a-9509-04fadc0729f1)
+
 
   - Sector By State
- <img src="images/Sector by State.png" alt="alt text" width="600">
+ ![image](https://github.com/user-attachments/assets/d92125be-c4f5-4a23-9116-ae16d26f2433)
+
 
   - Sector By Salary
- <img src="images/Sector by Salary.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/1e6c222a-2d1b-409f-a924-e44c9f2412ae)
+
 
   ###
   Dashboard
   
- <img src="images/Dashboard.png" alt="alt text" width="600">
+![image](https://github.com/user-attachments/assets/134c58bf-033f-4164-921c-c8c642d3a098)
+
 
   
 
