@@ -7,8 +7,7 @@
 - Sal By State
 - Sal by Size
   
-  ###
-  
+
  - Uncleaned_DS_Job
 ![image](https://github.com/user-attachments/assets/5d9a44a6-a611-457d-b723-30a68f098173)
 
@@ -48,8 +47,8 @@
 
 
 
-  ###
-  Analyzing Salary Data
+  
+  ### Analyzing Salary Data
   
   - Sal By Role
 ![image](https://github.com/user-attachments/assets/c30cb05b-e851-4843-801b-71f9dada95b1)
@@ -71,8 +70,8 @@
 ![image](https://github.com/user-attachments/assets/1e6c222a-2d1b-409f-a924-e44c9f2412ae)
 
 
-  ###
-  Dashboard
+
+  ### Dashboard
   
 ![image](https://github.com/user-attachments/assets/134c58bf-033f-4164-921c-c8c642d3a098)
 
